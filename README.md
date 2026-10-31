@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I'm just a developer who really likes everything about coding. 
 
-## 🛠️ Languages & Experience
+## Languages & Experience 🛠️
 
 - **Python** - 8 years of experience  
   Skilled in scripting, automation and data analysis.
