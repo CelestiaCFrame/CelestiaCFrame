@@ -1,9 +1,7 @@
-# Hi, I'm Celestia
+# Hi there, I'm Celestia
 
 Welcome to my GitHub profile!  
-I'm a developer who really likes everything about coding. 
-
----
+I'm just a developer who really likes everything about coding. 
 
 ## 🛠️ Languages & Experience
 
