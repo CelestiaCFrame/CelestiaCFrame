@@ -2,9 +2,9 @@ from datetime import date
 from pathlib import Path
 
 START_DATES = {
-    "python": date(2019, 1, 1),
-    "lua": date(2021, 1, 1),
-    "web": date(2025, 1, 1),
+    "python": date(2018, 1, 1),
+    "lua": date(2020, 1, 1),
+    "web": date(2024, 1, 1),
 }
 
 def years_of_experience(start_date):
