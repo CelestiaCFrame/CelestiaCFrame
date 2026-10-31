@@ -1,5 +1,5 @@
 
-name: Update Language Experience
+name: Update Time
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
           python-version: "3.x"
 
       - name: Generate README
-        run: python generate_readme.py
+        run: python updateTime.py
 
       - name: Commit changes
         run: |
