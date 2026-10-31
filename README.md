@@ -13,7 +13,7 @@ I'm a developer who really likes everything about coding.
 - **Lua** - 6 years of experience  
   Experienced in game scripting, workflow customization, and lightweight logic design.
 
-- **HTML, JavaScript, CSS** - 2 year of experience  
+- **HTML, JavaScript, CSS** - 2 years of experience  
   Exploring web development fundamentals, building interactive pages, and experimenting with UI/UX.
 
 - **C++** - Still learning  
